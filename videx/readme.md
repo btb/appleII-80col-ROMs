@@ -10,3 +10,4 @@ videx firmware 600 1982 - bottom - 2708 - FIXED.bin - this is the latest VIDEX p
 
 Config Register Differences.png - this file shows the CRTC 6845 registers in the ROMs. Both the stock ROM and the clone ROM, and then my "fixed" values to fix the centering and size issues. You can modify your own ROM with these values. 
 
+VIDEX FW 2.1 1981 2708.bin - a much earlier Videx program ROM. It does not support the soft-switch module.
