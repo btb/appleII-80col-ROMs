@@ -6,7 +6,7 @@ VIDEX ROM Fixed registers.ROM is a modified version of the 1982 Videx ROM with i
 
 Videx Clone: These are ROMs (3 of them, one program and two fonts) from a Clone card I bought off eBay. It has a normal and inverse font in the ROMs. Does _NOT_ support the auto switcher module. 
 
-videx firmware 600 1982 - bottom.bin - this is the latest VIDEX program ROM that properly supports the auto switch module.
+videx firmware 600 1982 - bottom - 2708 - FIXED.bin - this is the latest VIDEX program ROM that properly supports the auto switch module.
 
 Config Register Differences.png - this file shows the CRTC 6845 registers in the ROMs. Both the stock ROM and the clone ROM, and then my "fixed" values to fix the centering and size issues. You can modify your own ROM with these values. 
 
